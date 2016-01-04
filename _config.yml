@@ -1,0 +1,28 @@
+name: NWDog
+favicon: null
+layout_spectrum: 0.10092794639058411
+typography_spectrum: 0.23849981115199625
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.04495661100372672
+  lightness: 0.4815763202495873
+  saturation: 0.6933255302719772
+  rhythmicContrast: 0.053654637886211276
+purpose: []

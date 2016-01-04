@@ -4,8 +4,15 @@
         <description><![CDATA[All Weather Dog Beds, Crate Pads and Utility Mats]]></description>
         <link>https://thegrid.ai/nwdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 04:54:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 04:55:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nwdog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Customers]]></title>
+            <description><![CDATA[<article><h1>Customers</h1><p>See our products in action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29abc3d8d7ff8b35e66d3fd8825eb98a468d6835.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nwdog/customers/index.html</link>
+            <guid isPermaLink="false">0310d722-8cf9-460a-991e-cceb6bdd6ecf</guid>
+            <pubDate>Mon, 04 Jan 2016 04:55:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Crate Pads and Beds]]></title>
             <description><![CDATA[<article><h1>Crate Pads and Beds</h1><p>All our crate pads and beds are custom.  Pick and size and color to fit your needs!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0ff908becfed30e0e3b5a9e55413646f1626eb6a.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Utility Mats]]></title>
-            <description><![CDATA[<article><h1>Utility Mats</h1><p>On our favorite testers cattle operation, they keep their mat in the truck. Usually to keep the seat clean, but sometimes as a very large napkin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/053a710afce1f5c1f4ddd97160b7cdcb43365e16.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Utility Mats</h1><p>On our favorite testers cattle operation, they keep their mat in the truck. Usually to keep the seat clean, but sometimes as a very large napkin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b165a6c1b4008075898718a8dfdae51c98dc053.jpg"></article>]]></description>
             <link>https://thegrid.ai/nwdog/utility-mats/index.html</link>
             <guid isPermaLink="false">7e98506f-e68b-4449-bcdd-60555889b9d8</guid>
             <pubDate>Mon, 04 Jan 2016 04:54:07 GMT</pubDate>

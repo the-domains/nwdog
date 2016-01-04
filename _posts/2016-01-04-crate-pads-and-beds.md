@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'All our crate pads and beds are custom.  Pick and size and color to fit your needs!'
-datePublished: '2016-01-04T05:05:02.458Z'
-dateModified: '2016-01-04T05:04:54.131Z'
+datePublished: '2016-01-04T05:05:39.177Z'
+dateModified: '2016-01-04T05:05:34.244Z'
 title: Crate Pads and Beds
 author: []
 sourcePath: _posts/2016-01-04-crate-pads-and-beds.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: crate-pads-and-beds/index.html
+_type: Article
 
 ---
 Either to custom fit your crate, in the kennel or in your car, we can fit an All Weather Bed to any situation. Pads are waterproof, non-skid rubber on the bottom and 1000D Cordura on the top. All seams are sealed to insure integrity.  Marine grade snaps on one end allow for the stuff to be changed out as needed.

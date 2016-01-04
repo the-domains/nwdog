@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: See our products in action.
-datePublished: '2016-01-04T04:15:29.788Z'
-dateModified: '2016-01-04T03:31:50.462Z'
+datePublished: '2016-01-04T04:46:13.241Z'
+dateModified: '2016-01-04T04:46:10.310Z'
 title: Customers
 author: []
+sourcePath: _posts/2016-01-04-customers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-customers.md
-published: true
 url: customers/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf8725b5-7d5a-447c-aae9-a0ac08e298fe.jpg)

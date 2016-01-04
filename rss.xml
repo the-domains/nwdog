@@ -4,11 +4,11 @@
         <description><![CDATA[All Weather Dog Beds, Crate Pads and Utility Mats]]></description>
         <link>https://thegrid.ai/nwdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 04:56:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 04:58:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nwdog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Customers]]></title>
-            <description><![CDATA[<article><h1>Customers</h1><p>See our products in action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e591139ea62dff523f1d2d2b833d27dec708fe2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Customers</h1><p>See our products in action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d0fbe589a3578a32887fa893c2189a000ef6d4b.jpg"></article>]]></description>
             <link>https://thegrid.ai/nwdog/customers/index.html</link>
             <guid isPermaLink="false">0310d722-8cf9-460a-991e-cceb6bdd6ecf</guid>
             <pubDate>Mon, 04 Jan 2016 04:56:57 GMT</pubDate>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/nwdog/crate-pads-and-beds/index.html</link>
             <guid isPermaLink="false">6d58d7b7-9ec5-4661-a980-44cfe8c73b15</guid>
             <pubDate>Mon, 04 Jan 2016 04:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Utility Mats]]></title>
-            <description><![CDATA[<article><h1>Utility Mats</h1><p>On our favorite testers cattle operation, they keep their mat in the truck. Usually to keep the seat clean, but sometimes as a very large napkin.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0ff53c670a7115a3a82ca542d96dea3bd25779f.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nwdog/utility-mats/index.html</link>
-            <guid isPermaLink="false">7e98506f-e68b-4449-bcdd-60555889b9d8</guid>
-            <pubDate>Mon, 04 Jan 2016 04:54:07 GMT</pubDate>
         </item>
     </channel>
 </rss>

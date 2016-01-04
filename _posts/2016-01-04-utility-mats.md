@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Waterproof and easy to store, out mats can be used in almost any situation.'
-datePublished: '2016-01-04T04:52:09.823Z'
-dateModified: '2016-01-04T04:51:53.878Z'
+datePublished: '2016-01-04T04:54:07.798Z'
+dateModified: '2016-01-04T04:54:02.383Z'
 title: Utility Mats
 author: []
 sourcePath: _posts/2016-01-04-utility-mats.md
@@ -29,9 +29,9 @@ The All Weather Utility Mat is waterproof nonskid rubber over 1000D Cordura.  Th
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6cffb78-0151-4415-aecb-6b852f1a7025.jpg)
 
 We work a lot of stock trials.  Our Mat keeps our clean things clean.  And when it rains, gear goes under the mat to keep snacks other necessities dry.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/982f9a10-f047-48e9-81a9-8dddba75de08.jpg)
-
-On our favorite testers cattle operation, they keep their mat in the truck. Usually to keep the seat clean, but sometimes as a very large napkin.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/584e5f36-f779-4131-94d9-9931d4271a63.jpg)
 
 Mats can be made in a geometric split.  This is Bright Green and Electric Blue.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/982f9a10-f047-48e9-81a9-8dddba75de08.jpg)
+
+On our favorite testers cattle operation, they keep their mat in the truck. Usually to keep the seat clean, but sometimes as a very large napkin.

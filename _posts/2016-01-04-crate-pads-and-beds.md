@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: 'All our crate pads and beds are custom.  Pick and size and color to fit your needs!'
-datePublished: '2016-01-04T04:36:48.303Z'
-dateModified: '2016-01-04T04:33:24.766Z'
+datePublished: '2016-01-04T04:52:32.206Z'
+dateModified: '2016-01-04T04:52:31.581Z'
 title: Crate Pads and Beds
 author: []
+sourcePath: _posts/2016-01-04-crate-pads-and-beds.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-04-crate-pads-and-beds.md
-published: true
 url: crate-pads-and-beds/index.html
 _type: Article
 

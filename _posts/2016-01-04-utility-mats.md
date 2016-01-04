@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'Waterproof and easy to store, out mats can be used in almost any situation.'
-datePublished: '2016-01-04T04:47:03.843Z'
-dateModified: '2016-01-04T04:46:59.427Z'
+datePublished: '2016-01-04T04:51:23.199Z'
+dateModified: '2016-01-04T04:51:19.235Z'
 title: Utility Mats
 author: []
 sourcePath: _posts/2016-01-04-utility-mats.md

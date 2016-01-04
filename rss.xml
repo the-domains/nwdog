@@ -1,14 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[NWDog]]></title>
-        <description><![CDATA[NWDog]]></description>
+        <title><![CDATA[All Weather Dog Beds, Crate Pads and Utility Mats]]></title>
+        <description><![CDATA[All Weather Dog Beds, Crate Pads and Utility Mats]]></description>
         <link>https://thegrid.ai/nwdog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 04:35:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jan 2016 04:36:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/nwdog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Utility Mats]]></title>
+            <description><![CDATA[<article><h1>Utility Mats</h1><p>Waterproof and easy to store, out mats can be used in almost any situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/724b1e66a49d92ea769a0d274aae5ffb0b42300c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/nwdog/utility-mats/index.html</link>
+            <guid isPermaLink="false">7e98506f-e68b-4449-bcdd-60555889b9d8</guid>
+            <pubDate>Mon, 04 Jan 2016 04:36:39 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Available Items]]></title>
-            <description><![CDATA[<article><h1>Available Items</h1><p>20" X 32" Sack Available in Red.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c48e246a646e7865af9b61399b1f65f77711e30.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Available Items</h1><p>20" X 32" Sack Available in Red.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/99f427f2a15c978f369068b7daf21c2a284f8554.jpg"></article>]]></description>
             <link>https://thegrid.ai/nwdog/available-items/index.html</link>
             <guid isPermaLink="false">8e26e42e-f3b6-4ff8-b327-083c1bdececc</guid>
             <pubDate>Mon, 04 Jan 2016 04:34:59 GMT</pubDate>
@@ -25,13 +32,6 @@
             <description><![CDATA[<article><h1>Customers</h1><p>See our products in action.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/29abc3d8d7ff8b35e66d3fd8825eb98a468d6835.jpg"></article>]]></description>
             <link>https://thegrid.ai/nwdog/customers/index.html</link>
             <guid isPermaLink="false">0310d722-8cf9-460a-991e-cceb6bdd6ecf</guid>
-            <pubDate>Mon, 04 Jan 2016 04:15:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Utility Mats]]></title>
-            <description><![CDATA[<article><h1>Utility Mats</h1><p>Waterproof and easy to store, out mats can be used in almost any situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b165a6c1b4008075898718a8dfdae51c98dc053.jpg"></article>]]></description>
-            <link>https://thegrid.ai/nwdog/utility-mats/index.html</link>
-            <guid isPermaLink="false">7e98506f-e68b-4449-bcdd-60555889b9d8</guid>
             <pubDate>Mon, 04 Jan 2016 04:15:29 GMT</pubDate>
         </item>
         <item>
